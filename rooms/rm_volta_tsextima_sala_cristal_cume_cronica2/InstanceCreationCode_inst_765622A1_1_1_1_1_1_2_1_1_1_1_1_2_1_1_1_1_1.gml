@@ -1,0 +1,1 @@
+dura_dash = room_speed/6;

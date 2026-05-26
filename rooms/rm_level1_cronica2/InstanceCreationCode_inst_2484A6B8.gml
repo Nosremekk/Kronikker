@@ -1,0 +1,1 @@
+//essa plataforma vai se mover uns 3 bloco para baixo quando apertar a alavanca

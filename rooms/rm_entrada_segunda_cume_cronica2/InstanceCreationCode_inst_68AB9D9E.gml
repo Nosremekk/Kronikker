@@ -1,0 +1,1 @@
+if (global.cristal < 1) instance_destroy();
